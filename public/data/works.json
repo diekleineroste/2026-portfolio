@@ -1,0 +1,30 @@
+[
+  {
+    "year": "2025",
+    "rolls": ["developer", "designer"],
+    "brandName": "Haerens Visuals",
+    "imagePath": "/data/images/haevis.png",
+    "link": "https://haerensvisuals.com"
+  },
+  {
+    "year": "2025",
+    "rolls": ["developer", "designer"],
+    "brandName": "Judoclub Banzai",
+    "imagePath": "/data/images/judban.png",
+    "link": "https://judoclubbanzai.be"
+  },
+  {
+    "year": "2026",
+    "rolls": ["branding", "designer"],
+    "brandName": "Nexora",
+    "imagePath": "/data/images/nexdev.png",
+    "link": ""
+  },
+  {
+    "year": "In Progress",
+    "rolls": ["developer", "designer"],
+    "brandName": "Le Goût de Pitou",
+    "imagePath": "/data/images/goupit.png",
+    "link": ""
+  }
+]
